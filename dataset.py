@@ -1,3 +1,7 @@
 import tensorflow as tf
 
-tf.Data
+Class Dataset(object):
+    def __init__(self,):
+        pass
+
+    
